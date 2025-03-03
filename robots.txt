@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://henghuat.github.io/sitemap.xml
